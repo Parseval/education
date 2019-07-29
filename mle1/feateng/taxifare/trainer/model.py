@@ -169,7 +169,7 @@ def add_eval_metrics(labels, predictions):
     return {
         'rmse': tf.metrics.root_mean_squared_error(labels, pred_values)
     }   
-# Copyright 2019 Counter Factual .AI All Rights Reserved.
+# Copyright 2019 CounterFactual.AI LLC. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.

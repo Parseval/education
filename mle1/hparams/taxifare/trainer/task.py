@@ -90,7 +90,7 @@ if __name__ == '__main__':
     # Run the training job
     model.train_and_evaluate(arguments)
 
-# Copyright 2019 Counter Factual .AI LLC. All Rights Reserved.
+# Copyright 2019 CounterFactual.AI LLC. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
